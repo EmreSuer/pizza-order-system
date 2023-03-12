@@ -1,0 +1,8 @@
+Classic
+Margherita
+TurkPizza
+PlainPizza
+MixedPizza
+Hawaiian
+Vegetarian
+MeatLovers
